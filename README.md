@@ -24,3 +24,18 @@ A repo for GitClub: https://etherpad.mozilla.org/gitclub
                      ~~--._  l_   )                        \
                            ~-._~~~---._,____..---           \
                                ~----"~       \
+
+
+This is an awesome picture of an ascii cat. Because internet.
+
+Here's a smaller one:
+
+ ((      /|_/|
+  \\.._.'  , ,\
+  /\ | '.__ v /
+ (_ .   /   "        
+  ) _)._  _ /
+ '.\ \|( / ( 
+   '' ''\\ \\
+   
+--Doug   
