@@ -31,8 +31,4 @@ This is an awesome picture of an ascii cat. Because internet.
 
 --Doug   
 
-Today's date: 1st October 2014
-=======
---Doug
-
 Today is 1st October 2014
