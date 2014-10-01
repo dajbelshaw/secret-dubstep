@@ -28,6 +28,12 @@ A repo for GitClub: https://etherpad.mozilla.org/gitclub
 
 This is an awesome picture of an ascii cat. Because internet.
    
+<<<<<<< HEAD
 --Doug   
 
 Today's date: 1st October 2014
+=======
+--Doug
+
+Today is Sep 30, 2014
+>>>>>>> fc2bd69be130b00fa19b07fe7858b3fd221a7b05
