@@ -38,4 +38,6 @@ Here's a smaller one:
  '.\ \|( / ( 
    '' ''\\ \\
    
---Doug   
+--Doug
+
+Today is Sep 30, 2014
